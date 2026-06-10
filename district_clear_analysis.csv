@@ -1,0 +1,13 @@
+district,total_missions,median_rt,slow_responses
+Friedrichshain-Kreuzberg,240689,555.0,145425
+Mitte,395996,586.0,259206
+Charlottenburg-Wilmersdorf,292951,593.0,195054
+Tempelhof-Schöneberg,271241,600.0,185391
+Neukölln,272332,618.0,192793
+Spandau,213350,625.0,148278
+Pankow,267273,635.0,194905
+Steglitz-Zehlendorf,217879,637.0,158623
+Reinickendorf,228796,652.0,167203
+Lichtenberg,239971,655.0,181813
+Marzahn-Hellersdorf,218795,659.0,168208
+Treptow-Köpenick,226508,664.0,170874
